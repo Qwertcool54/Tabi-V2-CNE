@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="gf" y="350" isGF="true" color="#31B0D1" isPlayer="false" sprite="GF_TABI">
+	<anim x="-5" loop="true" y="0" fps="24" anim="GF Dancing Beat" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf sad" name="sad"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="pow" folder="stages/pow/">
+	<!-- BG LIMOS !-->
+	<sprite name="back" x="-500" y="-700" sprite="back" scroll="1" scale="1.25"/>
+	<sprite name="middle" x="-500" y="-700" sprite="mid" scroll="1"scale="1.25"/>
+	<girlfriend y="-400"/>
+	<dad x="-150" y="-120" camxoffset="0" camyoffset="-50"/>
+	<boyfriend x="1280" y="-120" camxoffset="-325"/>
+	<sprite name="front" x="-500" y="-700" sprite="front" scroll="1.1"scale="1.25"/>
+</stage>

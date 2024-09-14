@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="tabi" y="350" isGF="false" color="#AABCC1" isPlayer="false" sprite="Annoyed_Tabi">
+	<anim x="0" loop="false" y="220" fps="24" anim="IdleMAD" name="idle"/>
+	<anim x="80" loop="false" y="285" fps="24" anim="upMAD" name="singUP"/>
+	<anim x="79" loop="false" y="128" fps="24" anim="LeftMAD" name="singLEFT"/>
+	<anim x="143" loop="false" y="131" fps="24" anim="RightMAD" name="singRIGHT"/>
+	<anim x="109" loop="false" y="-6" fps="24" anim="DownMAD" name="singDOWN"/>
+</character>

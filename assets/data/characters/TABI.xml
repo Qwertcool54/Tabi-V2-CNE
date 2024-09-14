@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="tabi" y="350" isGF="false" color="#888888" isPlayer="false" sprite="TABI">
+	<anim x="86" loop="false" y="360" fps="24" anim="Tabi Idle" name="idle"/>
+	<anim x="111" loop="false" y="337" fps="24" anim="Tabi Up" name="singUP"/>
+	<anim x="103" loop="false" y="366" fps="24" anim="Tabi Left" name="singLEFT"/>
+	<anim x="203" loop="false" y="333" fps="24" anim="Tabi Right" name="singRIGHT"/>
+	<anim x="147" loop="false" y="370" fps="24" anim="Tabi Down" name="singDOWN"/>
+</character>

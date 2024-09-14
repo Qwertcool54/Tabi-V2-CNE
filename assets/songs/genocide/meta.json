@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"ALT",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7179779,
+	"displayName": "genocide",
+	"icon": "tabi-crazy",
+	"name": "genocide",
+	"color": "#9271FD",
+	"customValues": {}
+}

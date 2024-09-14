@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="tabi" y="350" isGF="false" color="#31B0D1" isPlayer="false" sprite="Tired_Tabi">
+	<anim x="-40" loop="false" y="120" fps="24" anim="IdleMADTired" name="idle"/>
+	<anim x="33" loop="false" y="143" fps="24" anim="upMADTired" name="singUP"/>
+	<anim x="-30" loop="false" y="8" fps="24" anim="LeftMADTired" name="singLEFT"/>
+	<anim x="77" loop="false" y="44" fps="24" anim="RightMADTired" name="singRIGHT"/>
+	<anim x="-10" loop="false" y="-50" fps="24" anim="DownMADTired" name="singDOWN"/>
+</character>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" isGF="true" x="100" y="275" scale="0.75">
+	<anim name="danceLeft"  anim="gf placeholder" fps="24" loop="false" x="0" y="0"/>
+	<anim name="danceRight"  anim="gf placeholder" fps="24" loop="false" x="0" y="0"/>
+</character>
